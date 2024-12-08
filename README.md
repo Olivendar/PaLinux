@@ -1,5 +1,7 @@
 # PaLinux
 This is a Open Source Linux Project developed by me
+Remember this is 0.1 Beta and not the real OS it is only for People how starts with
+OS programming!!
 
 Here are Few Steps to compile it !
 
